@@ -25,3 +25,6 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 Group Aphabet [A-J]
+
+Figma team project : https://www.figma.com/proto/OgGlSACKlU6LkQORencktn/Untitled?node-id=2-33&scaling=scale-down&page-id=0%3A1
+Jamboard : https://jamboard.google.com/d/1mtSE7peBWK1I7wEF_gZpAPbjcZgFyeZr7DvfG2h8Sl8/edit?usp=sharing
